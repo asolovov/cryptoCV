@@ -1,1 +1,1 @@
-# On-chain CV 
+# On-chain CV contract
