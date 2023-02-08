@@ -27,6 +27,7 @@ async function main() {
 
     console.log("OnchainCV contract deployed to address:", cv.address);
 
+    // Comment the following code if you want to deploy contract on local node
     console.log("Waiting 30 seconds before etherscan verification...");
     await new Promise(f => setTimeout(f, 30000));
 
